@@ -1,0 +1,5 @@
+/* Kernighan and Ritchie (1978, p. 6) */
+main()
+{
+    printf("hello, world\n");
+}

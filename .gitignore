@@ -1,0 +1,14 @@
+venv*/
+dist/
+tmp/
+__pycache__/
+*egg-info/
+*.swp
+pyproject.toml
+setup.cfg
+MANIFEST.in
+.eggs/*
+meta.sh
+docs_build
+docs_source/index.rst
+docs_source/conf.py

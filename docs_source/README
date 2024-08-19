@@ -1,0 +1,7 @@
+conf.py        : compiled file, do not modify, depends on
+                     ../python_project_stub/meta.sh
+index.rst      : compiled file, do not modify, depends on
+                     ../python_project_stub/meta.sh
+                     index_body.rst
+index_body.rst : source file, may be modified, used to build
+                     index.rst
